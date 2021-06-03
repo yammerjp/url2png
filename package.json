@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "puppeteer": "^10.0.0",
+    "sha256": "^0.2.0",
+    "sha256-uint8array": "^0.10.1"
+  }
+}
